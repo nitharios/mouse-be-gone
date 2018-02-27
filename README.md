@@ -45,9 +45,9 @@ To see how good you are without the mouse!
 
 #### CSS
 
-- find ```styles.css```
-- move ```styles.css``` to the correct directory
-- link ```styles.css``` to the project
+1. find ```styles.css```
+1. move ```styles.css``` to the correct directory
+1. link ```styles.css``` to the project
 
 #### I MESSED UP!
 
@@ -72,8 +72,8 @@ To see how good you are without the mouse!
 
 #### CSS
 
-- give the first ```div``` a ```background-color```
-- give the second ```div``` a ```background-color``` and border
+1. give the first ```div``` a ```background-color```
+1. give the second ```div``` a ```background-color``` and border
 
 #### Javascript
 
