@@ -10,14 +10,17 @@ To see how good you are without the mouse!
 - Keyboards only!
 - Ordered lists should be done in order
 - Unordered lists can be done in any order
-- You use Google for help but only if you use your keyboard
+- You may use Google for help but only if you use your keyboard
 
 ## How To Play
 
-1. ```fork```
+1. ```fork``` this repo
 1. ```copy``` the clone link
 
 #### ~ FROM THIS POINT ON YOU ARE NOT ALLOWED TO USE YOUR MOUSE ~
+#### ~ FROM THIS POINT ON YOU ARE NOT ALLOWED TO USE YOUR MOUSE ~
+#### ~ FROM THIS POINT ON YOU ARE NOT ALLOWED TO USE YOUR MOUSE ~
+
 ### Don't forget to commit your work often!
 
 1. Open your terminal
@@ -61,7 +64,7 @@ To see how good you are without the mouse!
 #### Check Yourself
 
 - make sure your webpage says ```Hello World!```
-- make sure your background color changed
+- make sure your background color is not ```white```
 
 ### Level Two (Keep It Going!)
 
@@ -80,14 +83,14 @@ To see how good you are without the mouse!
 #### CSS
 
 - give the first ```div``` a different ```background-color```
-- give the second ```div``` a  different ```background-color``` and border
+- give the second ```div``` a  different ```background-color``` and ```border```
 
 #### Javascript
 
 1. make a new folder called ```js```
 1. copy the ```app.js``` into ```js```
 1. link ```app.js``` to the project
-1. using ONLY ```Javascript``` inside of the second ```div``` add the phrase ```My name is ENTER_YOUR_NAME_HERE!```
+1. using _ONLY_ ```Javascript``` inside of the second ```div``` add the phrase ```My name is ENTER_YOUR_NAME_HERE!```
 
 #### Bash
 
@@ -141,6 +144,9 @@ To see how good you are without the mouse!
 - make sure ```app.js``` only has one line of code
 - make sure your webpage console is logging ```Hello World```
 - make sure all of your ```background-color``` changes carried over from the original directory
+
+### If you made it this far *CONGRATULATIONS!!!*
+### You are an awesome keyboard ninja!
 
 ## Stretch Goals
 
