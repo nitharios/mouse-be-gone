@@ -1,13 +1,14 @@
-# Hands Off!
+# Mouse Be Gone!
 
 ## Purpose
 
-To see how good you are without your precious mouse!
+To see how good you are without the mouse!
 
 ## Rules
 
 - No mouse/trackpad use!
 - Keyboards only!
+- You use Google for help but only if you use your keyboard
 
 ## How To Play
 
@@ -31,10 +32,10 @@ To see how good you are without your precious mouse!
 
 #### Set Up
 
-1. create a new branch called ```omega```
-1. checkout to a new branch called ```alpha```
-1. check to see you have three branches
-1. run ```live-server```
+1. Create a new branch called ```omega```
+1. Checkout to a new branch called ```alpha```
+1. Check to see you have three branches
+1. Run ```live-server```
 
 #### HTML
 
@@ -49,18 +50,18 @@ To see how good you are without your precious mouse!
 
 #### I MESSED UP!
 
-1. commit your code
-1. checkout to ```master```
-1. delete the ```alpha``` branch
-1. checkout to a new ```alpha``` branch
+1. Commit your code
+1. Checkout to ```master```
+1. Delete the ```alpha``` branch
+1. Checkout to a new ```alpha``` branch
 
 ### Level Two (Keep It Going!)
 
 #### Set Up
 
-1. commit and push your code to GitHub
-1. from the ```alpha``` branch create a new branch called ```beta```
-1. run ```live-server```
+1. Commit and push your code to GitHub
+1. From the ```alpha``` branch create a new branch called ```beta```
+1. Run ```live-server```
 
 #### HTML
 
@@ -85,19 +86,19 @@ To see how good you are without your precious mouse!
 
 ### I Messed Up!
 
-1. commit your code
-1. checkout to ```alpha```
-1. delete the ```beta``` branch
-1. from your ```alpha``` checkout to a new ```beta``` branch
+1. Commit your code
+1. Checkout to ```alpha```
+1. Delete the ```beta``` branch
+1. From your ```alpha``` checkout to a new ```beta``` branch
 
 ### Level Three (Final Round!)
 
 #### Setup
 
-1. commit your code and push to GitHub
-1. checkout to the ```omega``` branch
-1. merge your ```beta``` branch into your ```omega``` branch
-1. run ```live-server```
+1. Commit your code and push to GitHub
+1. Checkout to the ```omega``` branch
+1. Merge your ```beta``` branch into your ```omega``` branch
+1. Run ```live-server```
 
 #### HTML
 
@@ -105,7 +106,7 @@ To see how good you are without your precious mouse!
 
 #### CSS
 
-
+- add your own styles to make this simple app fancier!
 
 #### Javascript
 
@@ -121,8 +122,16 @@ To see how good you are without your precious mouse!
 
 #### I Messed Up!
 
-1. commit your code
-1. checkout to ```master```
-1. delete the ```omega``` branch
-1. from your ```master``` branch checkout a new ```omega``` branch
-1. merge your ```beta``` branch into your ```omega``` branch
+1. Commit your code
+1. Checkout to ```master```
+1. Delete the ```omega``` branch
+1. From your ```master``` branch checkout a new ```omega``` branch
+1. Merge your ```beta``` branch into your ```omega``` branch
+
+## Stretch Goals
+
+1. Create a project folder outside of the ```Mouse Be Gone!``` folder
+1. Copy all of the contents from the ```Hands-Off``` repo into the new repo using ONE line of code in your terminal
+1. Initialize a new ```git``` repo
+1. Create a new repository on GitHub (you may need to use your mouse/trackpad)
+1. Link the new ```git``` repo on your computer to your GitHub account 
