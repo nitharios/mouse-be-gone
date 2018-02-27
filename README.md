@@ -8,6 +8,8 @@ To see how good you are without the mouse!
 
 - No mouse/trackpad use!
 - Keyboards only!
+- Ordered lists should be done in order
+- Unordered lists can be done in any order
 - You use Google for help but only if you use your keyboard
 
 ## How To Play
@@ -56,6 +58,11 @@ To see how good you are without the mouse!
 1. Delete the ```alpha``` branch
 1. Checkout to a new ```alpha``` branch
 
+#### Check Yourself
+
+- make sure your webpage says ```Hello World!```
+- make sure your background color changed
+
 ### Level Two (Keep It Going!)
 
 #### Set Up
@@ -72,26 +79,32 @@ To see how good you are without the mouse!
 
 #### CSS
 
-1. give the first ```div``` a ```background-color```
-1. give the second ```div``` a ```background-color``` and border
+- give the first ```div``` a different ```background-color```
+- give the second ```div``` a  different ```background-color``` and border
 
 #### Javascript
 
 1. make a new folder called ```js```
 1. copy the ```app.js``` into ```js```
 1. link ```app.js``` to the project
-1. inside of the second ```div``` add the phrase ```My name is ENTER_YOUR_NAME_HERE!```
+1. using ONLY ```Javascript``` inside of the second ```div``` add the phrase ```My name is ENTER_YOUR_NAME_HERE!```
 
-### Bash
+#### Bash
 
 - smoke test your application
 
-### I Messed Up!
+#### I Messed Up!
 
 1. Commit your code
 1. Checkout to ```alpha```
 1. Delete the ```beta``` branch
 1. From your ```alpha``` checkout to a new ```beta``` branch
+
+#### Check Yourself
+
+- make sure you have 2 ```divs``` of different colors
+- make sure your webpage console is logging ```Hello World!```
+- make sure the second ```div``` says your name
 
 ### Level Three (Final Round!)
 
@@ -122,6 +135,12 @@ To see how good you are without the mouse!
 1. Delete the ```omega``` branch
 1. From your ```master``` branch checkout a new ```omega``` branch
 1. Merge your ```beta``` branch into your ```omega``` branch
+
+#### Check Yourself
+
+- make sure ```app.js``` only has one line of code
+- make sure your webpage console is logging ```Hello World```
+- make sure all of your ```background-color``` changes carried over from the original directory
 
 ## Stretch Goals
 
