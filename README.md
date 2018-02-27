@@ -15,6 +15,7 @@ To see how good you are without your precious keyboard!
 1. ```copy``` the clone link
 
 #### FROM THIS POINT ON YOU ARE NOT ALLOWED TO USE YOUR MOUSE
+### Don't forget to commit your work often!
 
 1. Open your terminal
 1. Change directory to the project folder
@@ -30,8 +31,10 @@ To see how good you are without your precious keyboard!
 
 #### Set Up
 
-- checkout to a new branch called ```alpha```
-- run ```live-server```
+1. create a new branch called ```sanity```
+1. checkout to a new branch called ```alpha```
+1. check to see you have three branches
+1. run ```live-server```
 
 #### HTML
 
@@ -55,21 +58,26 @@ To see how good you are without your precious keyboard!
 
 #### Set Up
 
-1. Commit and push your code to GitHub
-1. From the ```alpha``` branch create a new branch called ```beta```
-
+1. commit and push your code to GitHub
+1. from the ```alpha``` branch create a new branch called ```beta```
+1. run ```live-server```
 
 #### HTML
 
+- create a ```div``` element with an ```id```
+- create a ```div``` element inside the first ```div``` with no ```id``` or ```class``` identifiers
 
 #### CSS
 
+- give the first ```div``` a ```background-color```
+- give the second ```div``` a ```background-color``` and border
 
 #### Javascript
 
 - make a new folder called ```js```
 - copy the ```app.js``` into ```js```
 - link ```app.js``` to the project
+- inside of the second ```div``` add the phrase ```My name is ENTER_YOUR_NAME_HERE!```
 
 ### Bash
 
@@ -83,3 +91,10 @@ To see how good you are without your precious keyboard!
 1. create a new ```beta``` branch
 
 ### Level Three (Final Round!)
+
+#### Setup
+
+1. commit your code and push to GitHub
+1. from the ```beta``` branch checkout to a new branch called ```omega```
+1. merge your ```omega``` branch into your ```master``` branch
+1. run ```live-server```
