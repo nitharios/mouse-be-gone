@@ -145,6 +145,8 @@ To see how good you are without the mouse!
 - make sure your webpage console is logging ```Hello World```
 - make sure all of your ```background-color``` changes carried over from the original directory
 
+## End
+
 ### If you made it this far *CONGRATULATIONS!!!*
 ### You are an awesome keyboard ninja!
 
