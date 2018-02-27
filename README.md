@@ -66,12 +66,13 @@ To see how good you are without the mouse!
 
 #### HTML
 
-1. create a ```div``` element with an ```id```
-1. create a ```div``` element inside the first ```div``` with no ```id``` or ```class``` identifiers
+1. Change the title of the website
+1. Create a ```div``` element with an ```id```
+1. Create a ```div``` element inside the first ```div``` with no ```id``` or ```class``` identifiers
 
 #### CSS
 
- give the first ```div``` a ```background-color```
+- give the first ```div``` a ```background-color```
 - give the second ```div``` a ```background-color``` and border
 
 #### Javascript
