@@ -26,11 +26,11 @@ To see how good you are without your precious keyboard!
 
 ## Tasks
 
-### Level One
+### Level One (Let's Get It Started!)
 
-#### Bash
+#### Set Up
 
-- checkout to a new branch
+- checkout to a new branch called ```alpha```
 - run ```live-server```
 
 #### HTML
@@ -44,14 +44,42 @@ To see how good you are without your precious keyboard!
 - copy the css code into ```styles.css```
 - link ```styles.css``` to the project
 
-#### Javascript
-
-- create ```app.js``` in the correct directory
-- copy the javascript code into ```app.js```
-- link ```app.js``` to the project
-
 #### I MESSED UP!
 
+1. commit your work
 1. checkout to ```master```
-2. delete your new branch
-3. checkout to a new branch
+1. delete the ```alpha``` branch
+1. create a new ```alpha``` branch
+
+### Level Two (Keep It Going!)
+
+#### Set Up
+
+1. Commit and push your code to GitHub
+1. From the ```alpha``` branch create a new branch called ```beta```
+
+
+#### HTML
+
+
+#### CSS
+
+
+#### Javascript
+
+- make a new folder called ```js```
+- copy the ```app.js``` into ```js```
+- link ```app.js``` to the project
+
+### Bash
+
+- smoke test your application
+
+### I Messed Up!
+
+1. commit your work
+1. checkout to ```alpha```
+1. delete the ```beta``` branch
+1. create a new ```beta``` branch
+
+### Level Three (Final Round!)
