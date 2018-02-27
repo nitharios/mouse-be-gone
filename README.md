@@ -22,7 +22,7 @@ To see how good you are without the mouse!
 1. Change directory to the project folder
 1. Clone the repository
 1. Open the project in your text editor
-1. Complete each of the tasks below BEFORE the Final Quest!
+1. Complete each of the tasks below
 
 ### Good luck!
 
@@ -39,13 +39,14 @@ To see how good you are without the mouse!
 
 #### HTML
 
-- find ```index.html```
-- move ```index.html``` to the correct directory
+1. find ```index.html```
+1. move ```index.html``` to the correct directory
+1. reload your ```live-server``` page
 
 #### CSS
 
+- find ```styles.css```
 - move ```styles.css``` to the correct directory
-- copy the css code into ```styles.css```
 - link ```styles.css``` to the project
 
 #### I MESSED UP!
@@ -65,20 +66,20 @@ To see how good you are without the mouse!
 
 #### HTML
 
-- create a ```div``` element with an ```id```
-- create a ```div``` element inside the first ```div``` with no ```id``` or ```class``` identifiers
+1. create a ```div``` element with an ```id```
+1. create a ```div``` element inside the first ```div``` with no ```id``` or ```class``` identifiers
 
 #### CSS
 
-- give the first ```div``` a ```background-color```
+ give the first ```div``` a ```background-color```
 - give the second ```div``` a ```background-color``` and border
 
 #### Javascript
 
-- make a new folder called ```js```
-- copy the ```app.js``` into ```js```
-- link ```app.js``` to the project
-- inside of the second ```div``` add the phrase ```My name is ENTER_YOUR_NAME_HERE!```
+1. make a new folder called ```js```
+1. copy the ```app.js``` into ```js```
+1. link ```app.js``` to the project
+1. inside of the second ```div``` add the phrase ```My name is ENTER_YOUR_NAME_HERE!```
 
 ### Bash
 
@@ -100,29 +101,18 @@ To see how good you are without the mouse!
 1. Merge your ```beta``` branch into your ```omega``` branch
 1. Run ```live-server```
 
-#### HTML
-
-
-
-#### CSS
-
-- add your own styles to make this simple app fancier!
-
 #### Javascript
 
-- make a new folder in ```js``` called ```app```
-- create a file called ```index.js``` in the ```app``` folder
-- copy the contents of ```app.js``` into ```index.js``` (COMMAND LINE ONLY!)
-- replace the contents of ```app.js``` with the following:
-```bash var app = require('./index');```
+1. make a new folder in ```js``` called ```app```
+1. create a file called ```index.js``` in the ```app``` folder
+1. copy the contents of ```app.js``` into ```index.js``` (_COMMAND LINE ONLY!_)
+1. replace the contents of ```app.js``` with the following:
+```var app = require('./index');```
 
 #### Bash
 
 1. Create a project folder outside of the ```Mouse Be Gone!``` folder
 1. Copy all of the contents from the ```Hands-Off``` repo into the new repo using ONE line of code in your terminal
-1. Initialize a new ```git``` repo
-1. Create a new repository on GitHub (you may need to use your mouse/trackpad)
-1. Link the new ```git``` repo on your computer to your GitHub account 
 
 #### I Messed Up!
 
@@ -134,4 +124,6 @@ To see how good you are without the mouse!
 
 ## Stretch Goals
 
-1. Redo the entire challenge without looking at your notes or Googling information
+1. In your project folder initialize a new ```git``` repo
+1. Create a new repository on GitHub (you may need to use your mouse/trackpad)
+1. Link the new ```git``` repo on your computer to your GitHub account 
