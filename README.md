@@ -118,7 +118,11 @@ To see how good you are without the mouse!
 
 #### Bash
 
-- run ```live-server```
+1. Create a project folder outside of the ```Mouse Be Gone!``` folder
+1. Copy all of the contents from the ```Hands-Off``` repo into the new repo using ONE line of code in your terminal
+1. Initialize a new ```git``` repo
+1. Create a new repository on GitHub (you may need to use your mouse/trackpad)
+1. Link the new ```git``` repo on your computer to your GitHub account 
 
 #### I Messed Up!
 
@@ -130,8 +134,4 @@ To see how good you are without the mouse!
 
 ## Stretch Goals
 
-1. Create a project folder outside of the ```Mouse Be Gone!``` folder
-1. Copy all of the contents from the ```Hands-Off``` repo into the new repo using ONE line of code in your terminal
-1. Initialize a new ```git``` repo
-1. Create a new repository on GitHub (you may need to use your mouse/trackpad)
-1. Link the new ```git``` repo on your computer to your GitHub account 
+1. Redo the entire challenge without looking at your notes or Googling information
