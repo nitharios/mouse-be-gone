@@ -2,7 +2,7 @@
 
 ## Purpose
 
-To see how good you are without your precious keyboard!
+To see how good you are without your precious mouse!
 
 ## Rules
 
@@ -14,7 +14,7 @@ To see how good you are without your precious keyboard!
 1. ```fork```
 1. ```copy``` the clone link
 
-#### FROM THIS POINT ON YOU ARE NOT ALLOWED TO USE YOUR MOUSE
+#### ~ FROM THIS POINT ON YOU ARE NOT ALLOWED TO USE YOUR MOUSE ~
 ### Don't forget to commit your work often!
 
 1. Open your terminal
@@ -31,7 +31,7 @@ To see how good you are without your precious keyboard!
 
 #### Set Up
 
-1. create a new branch called ```sanity```
+1. create a new branch called ```omega```
 1. checkout to a new branch called ```alpha```
 1. check to see you have three branches
 1. run ```live-server```
@@ -49,10 +49,10 @@ To see how good you are without your precious keyboard!
 
 #### I MESSED UP!
 
-1. commit your work
+1. commit your code
 1. checkout to ```master```
 1. delete the ```alpha``` branch
-1. create a new ```alpha``` branch
+1. checkout to a new ```alpha``` branch
 
 ### Level Two (Keep It Going!)
 
@@ -85,16 +85,44 @@ To see how good you are without your precious keyboard!
 
 ### I Messed Up!
 
-1. commit your work
+1. commit your code
 1. checkout to ```alpha```
 1. delete the ```beta``` branch
-1. create a new ```beta``` branch
+1. from your ```alpha``` checkout to a new ```beta``` branch
 
 ### Level Three (Final Round!)
 
 #### Setup
 
 1. commit your code and push to GitHub
-1. from the ```beta``` branch checkout to a new branch called ```omega```
-1. merge your ```omega``` branch into your ```master``` branch
+1. checkout to the ```omega``` branch
+1. merge your ```beta``` branch into your ```omega``` branch
 1. run ```live-server```
+
+#### HTML
+
+
+
+#### CSS
+
+
+
+#### Javascript
+
+- make a new folder in ```js``` called ```app```
+- create a file called ```index.js``` in the ```app``` folder
+- copy the contents of ```app.js``` into ```index.js``` (COMMAND LINE ONLY!)
+- replace the contents of ```app.js``` with the following:
+```bash var app = require('./index');```
+
+#### Bash
+
+- run ```live-server```
+
+#### I Messed Up!
+
+1. commit your code
+1. checkout to ```master```
+1. delete the ```omega``` branch
+1. from your ```master``` branch checkout a new ```omega``` branch
+1. merge your ```beta``` branch into your ```omega``` branch
