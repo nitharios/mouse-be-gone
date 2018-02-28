@@ -44,15 +44,15 @@ To see how good you are without the mouse!
 
 #### HTML
 
-1. find ```index.html```
-1. move ```index.html``` to the correct directory
-1. reload your ```live-server``` page
+1. Find ```index.html```
+1. Move ```index.html``` to the correct directory
+1. Reload your ```live-server``` page
 
 #### CSS
 
-1. find ```styles.css```
-1. move ```styles.css``` to the correct directory
-1. link ```styles.css``` to the project
+1. Find ```styles.css```
+1. Move ```styles.css``` to the correct directory
+1. Link ```styles.css``` to the project
 
 #### I MESSED UP!
 
@@ -64,7 +64,7 @@ To see how good you are without the mouse!
 #### Check Yourself
 
 - make sure your webpage says ```Hello World!```
-- make sure your background color is not ```white```
+- make sure your ```background-color``` is not ```white```
 
 ### Level Two (Keep It Going!)
 
@@ -87,10 +87,10 @@ To see how good you are without the mouse!
 
 #### Javascript
 
-1. make a new folder called ```js```
-1. copy the ```app.js``` into ```js```
-1. link ```app.js``` to the project
-1. using _ONLY_ ```Javascript``` inside of the second ```div``` add the phrase ```My name is ENTER_YOUR_NAME_HERE!```
+1. Make a new folder called ```js```
+1. Copy the ```app.js``` into ```js```
+1. Link ```app.js``` to the project
+1. Using _ONLY_ ```Javascript``` inside of the second ```div``` add the phrase ```My name is ENTER_YOUR_NAME_HERE!```
 
 #### Bash
 
