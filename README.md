@@ -72,7 +72,7 @@ To see how good you are without the mouse!
 
 1. Commit and push your code to GitHub
 1. From the ```alpha``` branch create a new branch called ```beta```
-1. Run ```live-server```
+1. Run ```live-server``` <= isn't the live server still running?
 
 #### HTML
 
@@ -88,7 +88,7 @@ To see how good you are without the mouse!
 #### Javascript
 
 1. Make a new folder called ```js```
-1. Copy the ```app.js``` into ```js```
+1. Copy the ```app.js``` into ```js``` <=find the app.js file, then copy 
 1. Link ```app.js``` to the project
 1. Using _ONLY_ ```Javascript``` inside of the second ```div``` add the phrase ```My name is ENTER_YOUR_NAME_HERE!```
 
