@@ -54,18 +54,18 @@ To see how good you are without the mouse!
 1. Move ```styles.css``` to the correct directory
 1. Link ```styles.css``` to the project
 
-### ONLY DO THIS IF YOU MESSED UP!!!
-### Otherwise skip to Check Yourself
-
-1. Commit your code
-1. Checkout to ```master```
-1. Delete the ```alpha``` branch
-1. Checkout to a new ```alpha``` branch
 
 #### Check Yourself
 
 - make sure your webpage says ```Hello World!```
 - make sure your ```background-color``` is not ```white```
+
+### I MESSED UP!!! WHAT DO I DO???
+
+1. Commit your code
+1. Checkout to ```master```
+1. Delete the ```alpha``` branch
+1. Checkout to a new ```alpha``` branch
 
 ### Level Two (Keep It Going!)
 
@@ -97,19 +97,19 @@ To see how good you are without the mouse!
 
 - smoke test your application
 
-### ONLY DO THIS IF YOU MESSED UP!!!
-### Otherwise skip to Check Yourself
-
-1. Commit your code
-1. Checkout to ```alpha```
-1. Delete the ```beta``` branch
-1. From your ```alpha``` checkout to a new ```beta``` branch
 
 #### Check Yourself
 
 - make sure you have 2 ```divs``` of different colors
 - make sure your webpage console is logging ```Hello World!```
 - make sure the second ```div``` says your name
+
+### I MESSED UP!!! WHAT DO I DO???
+
+1. Commit your code
+1. Checkout to ```alpha```
+1. Delete the ```beta``` branch
+1. From your ```alpha``` checkout to a new ```beta``` branch
 
 ### Level Three (Final Round!)
 
@@ -133,20 +133,19 @@ To see how good you are without the mouse!
 1. Create a project folder outside of the ```Mouse Be Gone!``` folder
 1. Copy all of the contents from the ```Mouse Be Gone!``` repo into the new repo using ONE line of code in your terminal
 
-### ONLY DO THIS IF YOU MESSED UP!!!
-### Otherwise skip to Check Yourself
+#### Check Yourself
+
+- make sure ```app.js``` only has one line of code
+- make sure your webpage console is logging ```Hello World```
+- make sure all of your ```background-color``` changes carried over from the original directory
+
+### I MESSED UP!!! WHAT DO I DO???
 
 1. Commit your code
 1. Checkout to ```master```
 1. Delete the ```omega``` branch
 1. From your ```master``` branch checkout a new ```omega``` branch
 1. Merge your ```beta``` branch into your ```omega``` branch
-
-#### Check Yourself
-
-- make sure ```app.js``` only has one line of code
-- make sure your webpage console is logging ```Hello World```
-- make sure all of your ```background-color``` changes carried over from the original directory
 
 ## End
 
