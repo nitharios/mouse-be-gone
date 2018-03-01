@@ -60,7 +60,7 @@ To see how good you are without the mouse!
 - make sure your webpage says ```Hello World!```
 - make sure your ```background-color``` is not ```white```
 
-### I MESSED UP!!! WHAT DO I DO???
+#### I MESSED UP!!! WHAT DO I DO???
 
 1. Commit your code
 1. Checkout to ```master```
@@ -97,14 +97,13 @@ To see how good you are without the mouse!
 
 - smoke test your application
 
-
 #### Check Yourself
 
 - make sure you have 2 ```divs``` of different colors
 - make sure your webpage console is logging ```Hello World!```
 - make sure the second ```div``` says your name
 
-### I MESSED UP!!! WHAT DO I DO???
+#### I MESSED UP!!! WHAT DO I DO???
 
 1. Commit your code
 1. Checkout to ```alpha```
@@ -139,7 +138,7 @@ To see how good you are without the mouse!
 - make sure your webpage console is logging ```Hello World```
 - make sure all of your ```background-color``` changes carried over from the original directory
 
-### I MESSED UP!!! WHAT DO I DO???
+#### I MESSED UP!!! WHAT DO I DO???
 
 1. Commit your code
 1. Checkout to ```master```
