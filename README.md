@@ -73,7 +73,7 @@ To see how good you are without the mouse!
 
 1. Commit and push your code to GitHub
 1. From the ```alpha``` branch create a new branch called ```beta```
-1. Run ```live-server```
+1. Run ```live-server``` if it's not already running
 
 #### HTML
 
@@ -117,7 +117,7 @@ To see how good you are without the mouse!
 1. Commit your code and push to GitHub
 1. Checkout to the ```omega``` branch
 1. Merge your ```beta``` branch into your ```omega``` branch
-1. Run ```live-server```
+1. Run ```live-server``` if it's not already running
 
 #### Javascript
 
