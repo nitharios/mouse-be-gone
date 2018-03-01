@@ -54,7 +54,7 @@ To see how good you are without the mouse!
 1. Move ```styles.css``` to the correct directory
 1. Link ```styles.css``` to the project
 
-#### ONLY DO THIS IF YOU MESSED UP!!!
+### ONLY DO THIS IF YOU MESSED UP!!!
 ### Otherwise skip to Check Yourself
 
 1. Commit your code
@@ -97,7 +97,7 @@ To see how good you are without the mouse!
 
 - smoke test your application
 
-#### ONLY DO THIS IF YOU MESSED UP!!!
+### ONLY DO THIS IF YOU MESSED UP!!!
 ### Otherwise skip to Check Yourself
 
 1. Commit your code
@@ -133,7 +133,7 @@ To see how good you are without the mouse!
 1. Create a project folder outside of the ```Mouse Be Gone!``` folder
 1. Copy all of the contents from the ```Mouse Be Gone!``` repo into the new repo using ONE line of code in your terminal
 
-#### ONLY DO THIS IF YOU MESSED UP!!!
+### ONLY DO THIS IF YOU MESSED UP!!!
 ### Otherwise skip to Check Yourself
 
 1. Commit your code
