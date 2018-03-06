@@ -11,6 +11,11 @@ To see how good you are without the mouse!
 - Ordered lists should be done in order
 - Unordered lists can be done in any order
 - You may use Google for help but only if you use your keyboard
+- You may use your mouse to resize and align your windows as needed
+
+## Hints
+
+- There are cheat sheets online that cover text editor shortcuts
 
 ## How To Play
 
