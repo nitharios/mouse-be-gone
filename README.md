@@ -46,7 +46,8 @@ To see how good you are without the mouse!
 
 ## Tasks
 
-### Level One (Let's Get It Started!)<a name="LevelOne"></a>
+<a name="LevelOne"></a>
+### Level One (Let's Get It Started!)
 
 #### Set Up
 
@@ -80,6 +81,7 @@ To see how good you are without the mouse!
 1. Delete the ```alpha``` branch
 1. Checkout to a new ```alpha``` branch
 
+<a name="LevelTwo"></a>
 ### Level Two (Keep It Going!)
 
 #### Set Up
@@ -123,6 +125,7 @@ To see how good you are without the mouse!
 1. Delete the ```beta``` branch
 1. From your ```alpha``` checkout to a new ```beta``` branch
 
+<a name="LevelThree"></a>
 ### Level Three (Final Round!)
 
 #### Setup
