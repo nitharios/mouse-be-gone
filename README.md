@@ -2,9 +2,11 @@
 
 ## Levels
 
-[Level One](#Level One)
-[Level Two](#Level Two)
-[Level Three](#Level Three)
+[Level One](#LevelOne)
+
+[Level Two](#LevelTwo)
+
+[Level Three](#LevelThree)
 
 ## Purpose
 
