@@ -1,5 +1,11 @@
 # Mouse Be Gone!
 
+## Levels
+
+- [Level One](#Level One)
+- [Level Two](#Level Two)
+- [Level Three](#Level Three)
+
 ## Purpose
 
 To see how good you are without the mouse!
