@@ -46,7 +46,7 @@ To see how good you are without the mouse!
 
 ## Tasks
 
-### Level One (Let's Get It Started!)
+### Level One (Let's Get It Started!)<a name="LevelOne"></a>
 
 #### Set Up
 
