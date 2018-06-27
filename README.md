@@ -37,9 +37,9 @@ To see how good you are without the mouse!
 ### Don't forget to commit your work often!
 
 1. Open your terminal
-1. Change directory to the project folder
-1. Clone the repository
-1. Open the project in your text editor
+1. Change directory to the directory you want to clone to
+1. Clone this repository
+1. Open the project repository in your text editor
 1. Complete each of the tasks below
 
 ### Good luck!
@@ -59,15 +59,14 @@ To see how good you are without the mouse!
 #### HTML
 
 1. Find ```index.html```
-1. Move ```index.html``` to the correct directory
-1. Reload your ```live-server``` page
+1. Move ```index.html``` to the root directory
+1. Restart ```live-server```
 
 #### CSS
 
 1. Find ```styles.css```
-1. Move ```styles.css``` to the correct directory
+1. Move ```styles.css``` to the css directory
 1. Link ```styles.css``` to the project
-
 
 #### Check Yourself
 
@@ -79,7 +78,7 @@ To see how good you are without the mouse!
 1. Commit your code
 1. Checkout to ```master```
 1. Delete the ```alpha``` branch
-1. Checkout to a new ```alpha``` branch
+1. From your ```master``` checkout to a new ```alpha``` branch
 
 <a name="LevelTwo"></a>
 ### Level Two (Keep It Going!)
@@ -99,14 +98,14 @@ To see how good you are without the mouse!
 #### CSS
 
 - give the first ```div``` a different ```background-color```
-- give the second ```div``` a  different ```background-color``` and ```border```
+- give the second ```div``` a  different ```background-color``` and a ```border```
 
 #### Javascript
 
 1. Make a new folder called ```js```
 1. Copy the ```app.js``` into ```js```
 1. Link ```app.js``` to the project
-1. Using _ONLY_ ```Javascript``` inside of the second ```div``` add the phrase ```My name is ENTER_YOUR_NAME_HERE!```
+1. Using _ONLY_ ```Javascript``` inside of the second ```div``` add the phrase ```My name is [ENTER_YOUR_NAME_HERE]!```
 
 #### Bash
 
